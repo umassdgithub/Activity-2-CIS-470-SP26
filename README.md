@@ -1,6 +1,6 @@
 # Tax Calculation System Requirements
 
-<font color=red>Important: The program is hypothetical, and the numbers are just for debugging purposes. </font>
+<p style="color:red">Important: The program is hypothetical, and the numbers are just for debugging purposes. </p>
 
 ## Functional Requirements
 
